@@ -1,7 +1,7 @@
 mailbox
 =======
 
-Time spent: Approx. 13 hours
+Time spent: Approx. 12 hours
 
 Optional: 
 Edge menu
@@ -26,4 +26,8 @@ Optional: Panning from the edge should reveal the menu
 
 Note: 
 I got it to swipe open. But I can't figure out how to swipe back close.
+
+![alt tag](https://github.com/idale/mailbox/mailbox.gif)
+
+![alt tag](https://github.com/idale/mailbox/mailbox_2.gif)
 
