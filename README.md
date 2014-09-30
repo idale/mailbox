@@ -27,7 +27,7 @@ Optional: Panning from the edge should reveal the menu
 Note: 
 I got it to swipe open. But I can't figure out how to swipe back close.
 
-![alt tag](https://github.com/idale/mailbox/mailbox.gif)
+![alt tag](https://github.com/idale/mailbox/blob/master/mailbox.gif)
 
-![alt tag](https://github.com/idale/mailbox/mailbox_2.gif)
+![alt tag](https://github.com/idale/mailbox/blob/master/mailbox_2.gif)
 
